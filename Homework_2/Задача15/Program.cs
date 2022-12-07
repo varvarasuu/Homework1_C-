@@ -8,3 +8,4 @@ else if ((n==7) || (n==6))
     Console.WriteLine("да");
 else 
     Console.WriteLine("нет");
+

@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.Clear();
+﻿Console.Clear();
 Console.Write("Введите количество строк массива m: ");
 int m = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите количество столбцов массива n: ");
